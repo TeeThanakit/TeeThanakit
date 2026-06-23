@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tee</h1>
+<h3 align="center">A Software Engineer based in Thailand 🇹🇭</h3>
 
-<!--
-**TeeThanakit/TeeThanakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning **Cloud, DevOps and System Design**
+- 🎓 Graduated from **KMUTT** with a BE in Computer Engineering — Second Class Honours
+- ⚡ Fun fact — I'm always open to new adventures and interesting opportunities
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/thanakit-chokbunsuwan-15259a14b/) or **tchokbunsuwan@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeeThanakit/TeeThanakit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeeThanakit/TeeThanakit/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/TeeThanakit/TeeThanakit/output/github-contribution-grid-snake.svg" />
+</picture>
